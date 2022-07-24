@@ -1,0 +1,15 @@
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CD_Clientes.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CD_ConexionBD.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CD_Facturas.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CD_Productos.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CD_Clientes.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CD_ConexionBD.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CD_Facturas.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\bin\Debug\CD_Productos.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CapaNegocio\obj\Debug\CapaNegocio.pdb

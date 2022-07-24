@@ -1,0 +1,9 @@
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Productos\bin\Debug\CD_Productos.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Productos\bin\Debug\CD_Productos.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Productos\obj\Debug\CD_Productos.csproj.AssemblyReference.cache
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Productos\obj\Debug\CD_Productos.csproj.CoreCompileInputs.cache
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Productos\obj\Debug\CD_Productos.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Productos\obj\Debug\CD_Productos.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Productos\bin\Debug\CD_ConexionBD.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Productos\bin\Debug\CD_ConexionBD.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Productos\obj\Debug\CD_Productos.csproj.CopyComplete

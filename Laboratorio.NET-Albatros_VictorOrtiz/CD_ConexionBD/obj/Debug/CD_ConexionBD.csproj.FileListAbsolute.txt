@@ -1,0 +1,6 @@
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_ConexionBD\bin\Debug\CD_ConexionBD.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_ConexionBD\bin\Debug\CD_ConexionBD.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_ConexionBD\obj\Debug\CD_ConexionBD.csproj.AssemblyReference.cache
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_ConexionBD\obj\Debug\CD_ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_ConexionBD\obj\Debug\CD_ConexionBD.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_ConexionBD\obj\Debug\CD_ConexionBD.pdb

@@ -1,0 +1,6 @@
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Facturas\bin\Debug\CD_Facturas.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Facturas\bin\Debug\CD_Facturas.pdb
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Facturas\obj\Debug\CD_Facturas.csproj.AssemblyReference.cache
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Facturas\obj\Debug\CD_Facturas.csproj.CoreCompileInputs.cache
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Facturas\obj\Debug\CD_Facturas.dll
+C:\Users\vmol2\Desktop\Laboratorio.NET-Albatros_VictorOrtiz\CD_Facturas\obj\Debug\CD_Facturas.pdb
